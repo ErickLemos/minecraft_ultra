@@ -1,6 +1,19 @@
 jdk
-libraries
 .fabric
 logs
-.fabric-server-launcher.properties
 versions
+
+### Commom Files ###
+banned-ips.json
+banned-players.json
+ops.json
+usercache.json
+whitelist.json
+
+### Commom Folders ###
+world
+
+### Libraries ###
+libraries
+!libraries/net
+!libraries/org
