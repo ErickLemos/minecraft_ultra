@@ -1,4 +1,8 @@
 # Minecraft Ultra
-### versão: 1.20.6
+- versão minecraft: 1.20.6
+- modloader: fabric
+- os: ubuntu 24 LTS
+- jvm: Azul JDK Prime
 
-configuração baseada no Azul Jdk Prime
+## mods para analise e perfomance
+- spark: ajuda na analise de desempenho

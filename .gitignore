@@ -17,3 +17,6 @@ world
 libraries
 !libraries/net
 !libraries/org
+
+### JFR ###
+flight.jfr
