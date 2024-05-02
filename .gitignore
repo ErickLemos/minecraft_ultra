@@ -4,6 +4,7 @@ banned-players.json
 ops.json
 usercache.json
 whitelist.json
+server.properties
 
 ### Commom Folders ###
 world
@@ -26,3 +27,4 @@ jdk
 .idea
 logs
 versions
+*.jfr

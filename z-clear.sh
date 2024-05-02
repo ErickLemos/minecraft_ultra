@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
-sudo rm -r .fabric
-sudo rm -r logs
-sudo rm -r world
+rm -r .fabric
+rm -r logs
+rm -r versions
+rm -r world
+rm -r usercache.json
