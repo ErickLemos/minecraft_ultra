@@ -22,13 +22,10 @@ flight.jfr
 scripts/TornadoVM
 
 ### SDKS ###
-sdks/jdk-old/*
-sdks/jdk/*
-sdks/python/*
-sdks/TornadoVM/*
-sdks/cmake/*
+jdk
 
 ### Other ###
 .fabric
+.idea
 logs
 versions
