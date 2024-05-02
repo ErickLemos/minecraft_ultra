@@ -10,3 +10,7 @@
 
 ## mods para analise e perfomance
 - spark: ajuda na analise de desempenho
+- Lithium: melhorias gerais no minecraft
+- Chunky: melhoria de desempenho na geração de chunks
+- Krypton: melhoria de desempenho nos sistemas de redes/network
+- Alternate Current: melhoria de desempenho nos sistemas de redstone
