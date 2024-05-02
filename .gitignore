@@ -21,3 +21,7 @@ libraries
 
 ### JFR ###
 flight.jfr
+
+### Config Files ###
+/config/chunky
+/config/spark
