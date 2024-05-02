@@ -1,1 +1,6 @@
-jdk/
+jdk
+libraries
+.fabric
+logs
+.fabric-server-launcher.properties
+versions
