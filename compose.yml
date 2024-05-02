@@ -1,0 +1,9 @@
+version: "3.8"
+name: "minecraft_ultra"
+
+services:
+  server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    
