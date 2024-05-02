@@ -1,9 +1,3 @@
-jdk/*
-!jdk/.gitkeep
-.fabric
-logs
-versions
-
 ### Commom Files ###
 banned-ips.json
 banned-players.json
@@ -13,8 +7,6 @@ whitelist.json
 
 ### Commom Folders ###
 world
-
-### Libraries ###
 libraries
 !libraries/net
 !libraries/org
@@ -25,3 +17,18 @@ flight.jfr
 ### Config Files ###
 /config/chunky
 /config/spark
+
+### scripts ###
+scripts/TornadoVM
+
+### SDKS ###
+sdks/jdk-old/*
+sdks/jdk/*
+sdks/python/*
+sdks/TornadoVM/*
+sdks/cmake/*
+
+### Other ###
+.fabric
+logs
+versions

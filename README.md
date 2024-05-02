@@ -3,6 +3,7 @@
 - modloader: fabric
 - os: ubuntu 24 LTS
 - jvm: Azul JDK Prime
+- python: 3.11.9
 
 ## por onde começar?
 - baixe e instale o JDK Azul Prime e descompacte no diretorio /jdk
