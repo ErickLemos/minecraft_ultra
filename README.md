@@ -14,3 +14,8 @@
 - Chunky: melhoria de desempenho na geração de chunks
 - Krypton: melhoria de desempenho nos sistemas de redes/network
 - Alternate Current: melhoria de desempenho nos sistemas de redstone
+
+## principais estrategias para ganho de perfomance
+- utilização do JDK Azul Prime para melhoria da compilação JIT / compilação antecipada
+- utilização do completo TornadoVM para utilização de GPU e placas integradas
+- utilização de mods para melhoria de desempenho e correções
